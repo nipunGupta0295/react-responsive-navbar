@@ -1,0 +1,9 @@
+.img img {
+    border-radius: 75px;
+}
+
+.card-container {
+    padding: 10px;
+    box-shadow: 5px 5px 10px #ddd2d2;
+    border-radius: 30px;
+}
